@@ -6,7 +6,6 @@ import {
 import { connect } from 'react-redux';
 
 import { MapView } from 'expo';
-// const { MapView } = Components;
 
 @connect(data => BreweryMapScreen.getDataProps(data))
 export default class BreweryMapScreen extends React.Component {
