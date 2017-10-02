@@ -18,7 +18,6 @@ import TouchableNativeFeedback from '@expo/react-native-touchable-native-feedbac
 import { MapView } from 'expo';
 import { openImageGallery } from '@expo/react-native-image-gallery';
 import { MaterialIcons } from '@expo/vector-icons';
-// const { MapView } = Components;
 
 import Actions from '../state/Actions';
 import {
